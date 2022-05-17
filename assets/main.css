@@ -1,0 +1,55 @@
+
+/**
+====================
+Custom Styles
+=====================
+*/
+.primary-container{
+background-color: hsl(212, 45%, 89%);
+margin: 0 auto;
+width: 900px;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.secondary-container{
+background: hsl(0, 0%, 100%);
+width: 33.33%;
+margin: 0 auto;
+padding: 20px;
+border-radius: 15px;
+}
+
+.tertiary-container{
+width: 80%;
+margin: 0 auto;
+}
+
+
+img{
+width: 100%;
+border-radius: 15px;
+margin-bottom: 15px;
+}
+
+
+ p{
+text-align: center;
+}
+
+.teaser{
+font: 700 18px/25px "Outfit", "Open Sans", "Helvetica Neue",Helvetica, Arial, sans-serif;
+width: 100%;
+margin: 0 auto;
+color: hsl(218, 44%, 22%);
+padding-bottom: 15px;
+}
+
+.instruction{
+font: 400 12px/19px "Outfit", "Open Sans", "Helvetica Neue",Helvetica, Arial, sans-serif;
+width: 80%;
+margin: 0 auto;
+color: hsl(220, 15%, 55%);
+word-spacing: .05em;
+padding-bottom: 10px;
+}
